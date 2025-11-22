@@ -1,5 +1,10 @@
 # About Me:
-I'm a Front-End Developer with a strong passion for clean, modern design and seamless user experiences.<br><br>I work with HTML, CSS, JavaScript, Tailwind, and Bootstrap, and I'm currently learning React to level up my front-end skills even further.<br><br>With over 3 years of experience in graphic design, I've developed a strong visual sense and creative intuition, which help me build interfaces that are both aesthetically balanced and highly engaging.<br><br>I combine code and design to deliver results that are functional, modern, and visually compelling.<br><br>Recently, I was honored as one of the Top 100 participants in the NTI Summer Internship on 7 August 2025, which was a proud milestone in my learning journey.
+**I'm a Front-End Developer with a strong passion for clean, modern design and seamless user experiences.**<br><br>
+**I work with HTML, CSS, JavaScript, Tailwind, and Bootstrap, and I'm currently learning React to level up my front-end skills even further.**<br><br>
+**With over 3 years of experience in graphic design, I've developed a strong visual sense and creative intuition, which help me build interfaces that are both aesthetically balanced and highly engaging.**<br><br>
+**I combine code and design to deliver results that are functional, modern, and visually compelling.**<br><br>
+**Recently, I was honored as one of the Top 100 participants in the NTI Summer Internship on 7 August 2025, which was a proud milestone in my learning journey.**
+
 
 
 ## Socials:
