@@ -1,9 +1,21 @@
 # About Me:
-**I'm a Front-End Developer with a strong passion for clean, modern design and seamless user experiences.**<br><br>
-**I work with HTML, CSS, JavaScript, Tailwind, and Bootstrap, and I'm currently learning React to level up my front-end skills even further.**<br><br>
-**With over 3 years of experience in graphic design, I've developed a strong visual sense and creative intuition, which help me build interfaces that are both aesthetically balanced and highly engaging.**<br><br>
-**I combine code and design to deliver results that are functional, modern, and visually compelling.**<br><br>
-**Recently, I was honored as one of the Top 100 participants in the NTI Summer Internship on 7 August 2025, which was a proud milestone in my learning journey.**
+I don't just write code I build experiences people remember.
+
+As a Frontend Developer at Wink Advertising Agency and a Top 100 finalist in Egypt's NTI National Internship, I've spent the last year shipping real products , not just learning.
+React, Shopify storefronts, and everything in between.
+
+My edge?
+3 years in graphic design before I ever touched React. That means I think in layouts before I think in components. I can take a Figma file, understand the intent behind it, and ship pixel-perfect, performant code without a designer holding my hand.
+
+What I work with:
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · GSAP · Framer Motion · Shopify · Git · Figma · HTML5 · CSS3
+
+What I bring:
+A rare combination of design intuition and frontend precision the kind that reduces revision cycles and ships faster.
+
+Currently:
+Still studying Computer Science at Tanta University. 
+Already building production-level products. Open to freelance work, remote contracts, and long-term frontend roles.
 
 
 # Tech Stack:
