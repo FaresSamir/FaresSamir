@@ -4,7 +4,7 @@
 
 **Frontend Developer** · React · Next.js · TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J00yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweicvPjwvc3ZnPg==)](https://linkedin.com/in/fares-samir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J00yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweicvPjwvc3ZnPg==)](www.linkedin.com/in/fares-samir-428597376)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Faressamer1907@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaresSamir)
 
@@ -68,7 +68,7 @@ As a Frontend Developer at Wink Advertising Agency and a Top 100 finalist in Egy
 
 # Experience:
 
-**Frontend Developer** — Wink Advertising Agency, Egypt · *Oct 2025 – Present*
+**Frontend Developer** Wink Advertising Agency, Egypt · *Oct 2025 – Present*
 
 - Built and shipped multiple client facing products: E-commerce storefronts (Shopify & WordPress), landing pages, and a Project Management & Time Tracking System
 - Built the frontend for **AdWink Engine**, an AI powered analytics command center for performance marketing, in collaboration with a backend engineer
@@ -77,7 +77,7 @@ As a Frontend Developer at Wink Advertising Agency and a Top 100 finalist in Egy
 - Applied Programmatic SEO and GEO on the frontend of `drhashishbariatricsurgery.com` to improve search visibility
 - Worked directly with the creative team across all projects to bridge design and development, cutting revision cycles
 
-**Frontend Development Intern** — National Telecommunications Institute (NTI) · *Jul 2025 – Aug 2025*
+**Frontend Development Intern** National Telecommunications Institute (NTI) · *Jul 2025 – Aug 2025*
 
 - Ranked **Top 100 nationally** with a score of **99.5%**, earning official certification
 - Built responsive interfaces in HTML5, CSS3, JavaScript, and Tailwind CSS with a focus on layout systems and mobile first design
@@ -87,7 +87,7 @@ As a Frontend Developer at Wink Advertising Agency and a Top 100 finalist in Egy
 
 # Projects:
 
-### AdWink Engine — AI-Powered Analytics Command Center
+### AdWink Engine AI Powered Analytics Command Center
 `Next.js` `TypeScript`
 
 An AI driven advertising intelligence platform that replaces traditional dashboards with a unified
@@ -97,7 +97,7 @@ alerts and decision making command center.
 - Guided optimization flow and AI deep scan analysis, so advertisers can *diagnose* campaign issues rather than just detect them
 - Instant search and multi layer filtering built to handle large scale ad accounts
 
-### Time Tracking & Project Management System — Wink Advertising Agency
+### Time Tracking & Project Management System Wink Advertising Agency
 `Next.js` `TypeScript` `SignalR`
 
 Full frontend of a role based project management platform.
@@ -112,38 +112,6 @@ Full frontend of a role based project management platform.
 
 - Frontend for a combined B2B and B2C platform serving Riyad Naeem raw materials and Soul de Oman, with contributions to parts of the backend
 - Comprehensive admin dashboard for managing products, orders, and site content across both brands
-
-### Open Source
-
-| Repository | What it is |
-|---|---|
-| **[Wink-Advertising-Agency](https://github.com/FaresSamir/Wink-Advertising-Agency)** | Responsive creative agency site built from scratch — smooth animations, interactive sections, performance-focused |
-| **[WinkWebhook](https://github.com/FaresSamir/WinkWebhook)** | Multi-page automation system handling webhook-driven workflows |
-| **[ScanlyOmr](https://github.com/FaresSamir/ScanlyOmr)** | Optical mark recognition tool for automated answer-sheet scanning |
-
----
-
-# GitHub Stats:
-
-<!--
-  If the two github-readme-stats cards below show as broken images, the shared public
-  instance is over its rate limit (it returns 503 often). Fix: fork
-  https://github.com/anuraghazra/github-readme-stats, deploy it to your own Vercel
-  account for free, then swap `github-readme-stats.vercel.app` for your own domain.
-  The streak card uses a different host and is unaffected.
--->
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FaresSamir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com?user=FaresSamir&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaresSamir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-</div>
-
----
 
 <div align="center">
 
